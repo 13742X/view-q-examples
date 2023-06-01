@@ -435,7 +435,7 @@ things inside; and finally tie or strap together the two ends, and throw
 the ring thus made over the shoulder, and wear it as you do the strap of
 the haversack,--diagonally across the body.
 
-![illustration1](/how-to-camp-out-images/p17.png)
+![illustration1](https://raw.githubusercontent.com/13742X/view-q-examples/0519c6a6053100615dce20ebabfadb1ee1bf7cdd/how-to-camp-out-images/p17.png)
 
 The advantages of the roll over the knapsack are important. You save the
 two and a half pounds weight; the roll is very much easier to the
