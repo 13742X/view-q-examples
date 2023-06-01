@@ -1,24 +1,18 @@
-{{{How To Camp Out}}}[[
+{{{Welcome}}}[[
 
-** The Project Gutenberg eBook, How to Camp Out, by John M. Gould
+## The Project Gutenberg eBook, How to Camp Out, by John M. Gould
 
-]]
-{{m1}}[[
-
+![](https://www.gutenberg.org/cache/epub/17575/pg17575.cover.medium.jpg)
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
+## Title: How to Camp Out **
 
 
-
-
-Title: How to Camp Out
-
-
-Author: John M. Gould
+# Author: John M. Gould
 
 
 
@@ -40,9 +34,9 @@ Gutenberg Online Distributed Proofreading Team (https://www.pgdp.net/)
 Note: Project Gutenberg also has an HTML version of this
       file which includes the original illustrations.
       See 17575-h.htm or 17575-h.zip:
-      (https://www.gutenberg.org/dirs/1/7/5/7/17575/17575-h/17575-h.htm)
+      [link](https://www.gutenberg.org/dirs/1/7/5/7/17575/17575-h/17575-h.htm)
       or
-      (https://www.gutenberg.org/dirs/1/7/5/7/17575/17575-h.zip)
+      [link](https://www.gutenberg.org/dirs/1/7/5/7/17575/17575-h.zip)
 
 
 
@@ -61,12 +55,16 @@ Author of History of First-Tenth-Twenty-Ninth Maine Regiment.
 First published in 1877
 
 
+]]
+{{m1}}[[
 
 
 
 
 
-CONTENTS.
+
+
+## CONTENTS.
 
 
 CHAPTER.
@@ -100,7 +98,7 @@ XIII. HYGIENIC NOTES, BY DR. ELLIOTT COUES, U.S.A.           117
 
 
 
-PREFACE.
+## PREFACE.
 
 
 In these few pages I have tried to prepare something about camping and
@@ -143,12 +141,12 @@ PORTLAND, ME., January, 1877.
 ]]
 {{m2}}[[
 
-** HOW TO CAMP OUT.
+# HOW TO CAMP OUT.
 
 
 
 
-CHAPTER I.
+## CHAPTER I.
 
 GETTING READY.
 
@@ -368,7 +366,7 @@ wherever most convenient to carry the cup.
 {{m3}}[[
 
 
-** CHAPTER II.
+## CHAPTER II.
 
 SMALL PARTIES TRAVELLING AFOOT AND CAMPING.
 
@@ -622,7 +620,7 @@ has his whim.
 {{m4}}[[
 
 
-** CHAPTER III.
+## CHAPTER III.
 
 LARGE PARTY TRAVELLING AFOOT WITH BAGGAGE-WAGON.
 
@@ -877,7 +875,7 @@ wheels.
 
 
 
-** CHAPTER IV.
+## CHAPTER IV.
 
 CLOTHING.
 
@@ -971,10 +969,11 @@ them away when you have done with them. You can send home by mail or
 express your soiled underclothes that are too good to lose or to be
 washed by your unskilled hands.
 
+]]
+{{m6}}[[
 
 
-
-CHAPTER V.
+## CHAPTER V.
 
 STOVES AND COOKING-UTENSILS.
 
@@ -1070,11 +1069,11 @@ demerits of any particular kind; but before putting money into any I
 should try to get the advice of some practical man, and not buy any
 thing with hinged joints or complicated mechanism.
 ]]
-{{m6}}
+{{m7}}
 [[
 
 
-CHAPTER VI.
+## CHAPTER VI.
 
 COOKING, AND THE CARE OF FOOD.
 
@@ -1202,10 +1201,11 @@ dishcloths and towels, unless your all is a frying-pan and coffee-pot
 that you are carrying upon your back, when leaves and grass must be made
 to do dishcloth duty.
 
+]]
+{{m8}}[[
 
 
-
-CHAPTER VII.
+## CHAPTER VII.
 
 MARCHING.[7]
 
@@ -1434,9 +1434,11 @@ the neck, allays thirst for a considerable time."--CRAGHILL'S _Pocket
 Companion_: Van Nostrand, N.Y.
 
 
+]]
+{{m9}}
+[[
 
-
-CHAPTER VIII.
+## CHAPTER VIII.
 
 THE CAMP.
 
@@ -1695,10 +1697,11 @@ FOOTNOTES:
 [11] This applies, as will be seen, only to tents having two uprights,
 as the wall, "A," and shelter.
 
+]]
+{{m10}}
+[[
 
-
-
-CHAPTER IX.
+## CHAPTER IX.
 
 TENTS.--ARMY SHELTER-TENT (_tente d'abri_).
 
@@ -2153,11 +2156,12 @@ upon the size of the tent.
 
 [22] What are known as "bolt-ends" can be bought at the hardware stores
 for this purpose.
+]]
+{{m11}}
+[[
 
 
-
-
-CHAPTER X.
+## CHAPTER X.
 
 MISCELLANEOUS.--GENERAL ADVICE.
 
@@ -2548,10 +2552,11 @@ pounds of coffee and 2-1/8 pounds of sugar (damp brown) for two men
 seven days; the bread and pork ration is also larger than that above
 given; but the allowance of potatoes is almost nothing.
 
+]]
+{{m12}}
+[[
 
-
-
-CHAPTER XI.
+## CHAPTER XI.
 
 DIARY.
 
@@ -2700,10 +2705,12 @@ it is pleasant to recall them in after-years.
 Do not write so near the margins of the paper that the binder will cut
 off the writing when he comes to trim them.
 
+]]
+{{m13}}
+[[
 
 
-
-CHAPTER XII.
+## CHAPTER XII.
 
 "HOW TO DO IT."
 
@@ -2803,9 +2810,11 @@ FOOTNOTES:
 [27] How to Do It. Published by Roberts Brothers, Boston.
 
 
+]]
+{{m14}}
+[[
 
-
-CHAPTER XIII.
+## CHAPTER XIII.
 
 HYGIENIC NOTES.
 
@@ -2879,8 +2888,8 @@ of trouble.
 
 There is an old saying,--
 
-          "When the air comes through a hole,
-           Say your prayers to save your soul."
+>When the air comes through a hole,
+>Say your prayers to save your soul.
 
 And I should think almost any one could get a "cold" with a spoonful of
 water on the wrist held to a key-hole. Singular as it may seem, sudden
@@ -2936,7 +2945,6 @@ not enough to drip about the ears. Under such circumstances the
 slightest giddiness, dimness of sight, or confusion of ideas, should be
 taken as a warning of possible sunstroke, instantly demanding rest, and
 shelter if practicable.
-
 
 HUNGER AND FATIGUE
 
@@ -3021,7 +3029,7 @@ joys of rum are immediate and unquestionable; and that intemperance,
 being an attempt to defy certain physical laws, is therefore eminently
 unscientific.
 
-       *       *       *       *       *
+***
 
 Besides the above good advice by Dr. Coues, the following may prove
 useful to the camper:--
@@ -3116,10 +3124,11 @@ even more difficult to command time than money.
 
 [Illustration]
 
+]]
+{{m15}}
+[[
 
-
-
-INDEX.
+## INDEX.
 
 
   Accidents, boy run over, 34.
@@ -3761,7 +3770,7 @@ INDEX.
 
 
 
-       *       *       *       *       *
+***
 
 
 
@@ -3788,40 +3797,7 @@ Transcriber's Note:
 
 
 
-***END OF THE PROJECT GUTENBERG EBOOK HOW TO CAMP OUT***
-
-
-******* This file should be named 17575.txt or 17575.zip *******
-
-
-This and all associated files of various formats will be found in:
-https://www.gutenberg.org/dirs/1/7/5/7/17575
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
+## FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
@@ -4141,7 +4117,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     https://www.gutenberg.org
+     [gutenberg.org](https://www.gutenberg.org)
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
