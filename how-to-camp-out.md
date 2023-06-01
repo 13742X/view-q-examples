@@ -435,7 +435,7 @@ things inside; and finally tie or strap together the two ends, and throw
 the ring thus made over the shoulder, and wear it as you do the strap of
 the haversack,--diagonally across the body.
 
-![illustration1](https://raw.githubusercontent.com/13742X/view-q-examples/0519c6a6053100615dce20ebabfadb1ee1bf7cdd/how-to-camp-out-images/p17.png)
+![illustration1](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p17_dsm9ak.png)
 
 The advantages of the roll over the knapsack are important. You save the
 two and a half pounds weight; the roll is very much easier to the
@@ -995,7 +995,7 @@ box near the bottom, so as to put in wood, and regulate the draught; but
 you can dispense with the slide by raising the stove from the ground
 when you want to admit fuel or air.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p44_mtmszx.png)
 
 I have used a more elaborate article than this. It is an old sheet-iron
 stove that came home from the army, and has since been taken down the
@@ -1082,7 +1082,7 @@ When living in the open air the appetite is so good, and the pleasure of
 getting your own meals is so great, that, whatever may be cooked, it is
 excellent.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p40_gtkqkm.png)
 
 You will need a frying-pan and a coffee-pot, even if you are carrying
 all your baggage upon your back. You can do a great deal of good cooking
@@ -1095,7 +1095,7 @@ handle through. Food fried in such plates needs careful attention and a
 low fire; and, as the plates themselves are somewhat delicate, they
 cannot be used roughly.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p45_xhv28h.png)
 
 It is far better to carry a real frying-pan, especially if there are
 three or more in your party. If you have transportation, or are going
@@ -1652,7 +1652,7 @@ of the pail.
 
 HUNTERS' CAMP.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p69_xu9pym.png)
 
 It is not worth while to say much about those hunters' camps which are
 built in the woods of stout poles, and covered with brush or the bark of
