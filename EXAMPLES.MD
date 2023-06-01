@@ -52,8 +52,6 @@ To view other examples:
     JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=
 
 
-[Or click this link](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
-
 ### Import (with password)
 
     Public Key: 
@@ -67,4 +65,14 @@ To view other examples:
 ### Store on a cloud
 
 Markdown File: https://res.cloudinary.com/vantacloud/raw/upload/q-vu/yzhmitsw3ejxhbae5tyx 
+]]
+{{m2}}[[
+## Try these
+
+[Help Files](?[Or click this link](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=))
+
+[How to camp](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+
+[The Bible](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+
 ]]
