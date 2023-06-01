@@ -16,7 +16,7 @@ Here are examples showing how to load in the files
 Note, View-Q has no relationship with either Cloudinary or jsdelivr.com.
 
 ## Try These
-[View-Q Help Files](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=))
+[View-Q Help Files](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
 [How to Camp Out, by John M. Gould](?JTNGYSUzREhvdyUyMFRvJTIwQ2FtcCUyNmIlM0RodHRwcyUzQSUyRiUyRnJhdy5naXRodWJ1c2VyY29udGVudC5jb20lMkYxMzc0MlglMkZ2aWV3LXEtZXhhbXBsZXMlMkZtYWluJTJGaG93LXRvLWNhbXAubWQlMjZjJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRmhvdy10by1jYW1wLmNzdiUyNmQlM0RkZWZhdWx0LWxvZ28uc3Zn)
 
