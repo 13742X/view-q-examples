@@ -1672,13 +1672,13 @@ especial care to prevent sparks from burning small holes in it. In fact,
 whenever you have a roaring fire you must guard against mischief from
 it.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p70_q8rrmb.png)
 
 Do not leave your clothes or blanket hanging near a brisk fire to dry,
 without confining them so that sudden gusts of wind shall not take them
 into the flame.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p71_rhlgj1.png)
 
 You may some time have occasion to make a shelter on a ledge or floor
 where you cannot drive a pin or nail. If you can get rails, poles,
@@ -2059,7 +2059,7 @@ when you see a storm brewing, it is well to make pins very stout, and
 two feet or more long, for the stays and four corner guy-lines, out of
 such stuff as you find at hand.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p88_ufnktm.png)
 
 Loosen the pins by striking them on all four sides before you try to
 pull them up. A spade is a fine thing to use to pry out a pin that is
@@ -3122,7 +3122,7 @@ Be independent, but not impudent. See all you can, and make the most of
 your time; "time is money;" and, when you grow older, you may find it
 even more difficult to command time than money.
 
-[Illustration]
+![Illustration](https://res.cloudinary.com/vantacloud/image/upload/v1685653069/p129_r3womg.png)
 
 ]]
 {{m15}}
