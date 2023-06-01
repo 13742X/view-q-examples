@@ -1,6 +1,20 @@
 {{{welcome}}}
 [[
-##Examples
+## Examples
+
+There are a number of ways to view documents. 
+
+Here are examples showing how to load in the files
+
+1. Locally
+2. Stored on Github (served by jsdelivr.com)
+3. Stored on Github (served as raw files)
+4. Importing public keys
+5. Importing public keys with a password
+6. Stored on Cloudinary
+
+Note, View-Q has no relationship with either Cloudinary or jsdelivr.com.
+
 ]]
 {{m1}}
 [[
