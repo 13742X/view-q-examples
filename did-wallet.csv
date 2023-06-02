@@ -1,7 +1,8 @@
 welcome,Digital Wallet,orphan
 m1,Identity,parent
-mx,Passport,child
+p1,Passport,child
 m2,ID,child
-m3,Residency,Parent
-m4,Utility,child
-m5,Tax,child
+p2,Residency,Parent
+m3,Utility,child
+m4,Tax,child
+m5,Other,child
