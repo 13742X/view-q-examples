@@ -22,6 +22,7 @@ Note, View-Q has no relationship with either Cloudinary or jsdelivr.com.
 
 [The NIV Bible](?JTNGYSUzRFRoZSUyMEJpYmxlJTI2YiUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZuaXYubWQlMjZjJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRm5pdi5jc3YlMjZkJTNEZGVmYXVsdC1sb2dvLnN2Zw==)
 
+[Digital Identity Waller]()
 
 ]]
 {{m1}}
