@@ -23,7 +23,9 @@ This is where I keep my encrypted KYC documents. I can send a link and a passwor
 ]]
 {{m4}}[[
 
-![First Last](https://upload.wikimedia.org/wikipedia/commons/5/56/Specimen_Personal_Information_Page_South_Korean_Passport.jpg) 
+## Tax Statement
+
+![First Last](https://www.oreilly.com/api/v2/epubs/9781119248200/files/images/form1.jpg) 
 
 ]]
 {{m5}}[[
@@ -33,12 +35,23 @@ This is where I keep my encrypted KYC documents. I can send a link and a passwor
 ]]
 {{m6}}[[
 
+## Wealth
+
+
 ![First Last](https://img2.docer.pl/image/l/ee8881s.png) 
 
 ]]
 {{m7}}[[
 
-![First Last](https://upload.wikimedia.org/wikipedia/commons/5/56/Specimen_Personal_Information_Page_South_Korean_Passport.jpg) 
+## Accounts
+![First Last](https://images.template.net/wp-content/uploads/2019/08/Personal-Assets-and-Liabilities-Statement-Template.jpg) 
 
 ]]
 
+{{m8}}[[
+
+## Video
+
+!!![https://www.youtube.com/embed/cQWIlQupXw4][600,600] 
+
+]]
