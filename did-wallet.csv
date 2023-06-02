@@ -6,4 +6,7 @@ xxxx,Residency,parent
 m3,Utility,child
 m4,Tax,child
 m5,Other,child
-xxxx,xxxxx,orphan
+xxxx,Wealth,parent
+m6,Declaration,child
+m7,Accounts,child
+xxxx,xxxx,orphan

@@ -31,3 +31,14 @@ This is where I keep my encrypted KYC documents. I can send a link and a passwor
 ![First Last](https://upload.wikimedia.org/wikipedia/commons/5/56/Specimen_Personal_Information_Page_South_Korean_Passport.jpg) 
 
 ]]
+{{m6}}[[
+
+![First Last](https://img2.docer.pl/image/l/ee8881s.png) 
+
+]]
+{{m7}}[[
+
+![First Last](https://upload.wikimedia.org/wikipedia/commons/5/56/Specimen_Personal_Information_Page_South_Korean_Passport.jpg) 
+
+]]
+
