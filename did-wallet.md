@@ -1,5 +1,7 @@
 {{{welcome}}}[[
+Welcome to my wallet. 
 
+This is where I keep my encrypted KYC documents. I can send a link and a password to other people and when they have finished I can change the password.
 ]]
 {{m1}}[[
 ## Passport
