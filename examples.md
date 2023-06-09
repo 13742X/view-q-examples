@@ -32,6 +32,8 @@ Note, View-Q has no relationship with either Cloudinary or jsdelivr.com.
 [Template Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vToZwOLV4rGsYm2JRwTtdZhpcYIdHsluLvymqPvSdBeNIwKJYizovjPv7NrQGSdLnea1V0O8mwmjLxy/pubhtml)
 Copy this example and create your own.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vToZwOLV4rGsYm2JRwTtdZhpcYIdHsluLvymqPvSdBeNIwKJYizovjPv7NrQGSdLnea1V0O8mwmjLxy/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ]]
 {{m1}}
 [[
