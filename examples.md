@@ -29,10 +29,10 @@ Note, View-Q has no relationship with either Cloudinary or jsdelivr.com.
 
 [Digital Identity Wallet (using SystemM)](?JTNGYSUzRFN5c3RlbU0lMjZiJTNEaHR0cHMlM0ElMkYlMkZzeXN0ZW1tLmNvJTJGYXBpJTJGcHVibGljLXNoYXJlJTJGc2VydmVyJTNGYSUzRG1kJTI2a2V5JTNEMjNSZXI0NSoqNzM0NTM0NSUyNmMlM0RodHRwcyUzQSUyRiUyRnN5c3RlbW0uY28lMkZhcGklMkZwdWJsaWMtc2hhcmUlMkZzZXJ2ZXIlM0ZhJTNEY3N2JTI2a2V5JTNEMjNSZXI0NSoqNzM0NTM0NSUyNmQlM0RkZWZhdWx0LWxvZ28uc3Zn)
 
-[Template Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vToZwOLV4rGsYm2JRwTtdZhpcYIdHsluLvymqPvSdBeNIwKJYizovjPv7NrQGSdLnea1V0O8mwmjLxy/pubhtml)
+[Template Google Sheet](https://docs.google.com/spreadsheets/d/1LQZbyD8PA8JpXHKAur_cp7kS6MJ0FiqOwnsGFLDVVQE/edit?usp=sharing)
 Copy this example and create your own.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vToZwOLV4rGsYm2JRwTtdZhpcYIdHsluLvymqPvSdBeNIwKJYizovjPv7NrQGSdLnea1V0O8mwmjLxy/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 ]]
 {{m1}}
