@@ -4,17 +4,7 @@
 
 There are a number of ways to view documents. 
 
-Here are examples showing how to load in the files
-
-1. Locally
-2. Stored on Github (served by jsdelivr.com)
-3. Stored on Github (served as raw files)
-4. Stored on Google Sheets (served as csv and tsv files)
-5. Importing public keys
-6. Importing public keys with a password
-7. Stored on Cloudinary
-
-Note, View-Q has no relationship with either Cloudinary or jsdelivr.com.
+Here are some clickable link examples showing various way to read files stored externally.
 
 ## Try These
 [View-Q Help Files (local)](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
@@ -32,7 +22,7 @@ Note, View-Q has no relationship with either Cloudinary or jsdelivr.com.
 
 Password / Private Key is "password123". If successful an unlocked padlock will appear in settings by the file. Note the key=password:
 
-[Encrypted DIW using a server)](?JTNGYSUzREVuY3J5cHRlZElkZW50aXR5V2FsbGV0JTI2YiUzRGh0dHBzJTNBJTJGJTJGc3lzdGVtbS5jbyUyRmFwaSUyRnB1YmxpYy1zaGFyZSUyRnNlcnZlciUzRmElM0RtZCUyNmtleSUzRHBhc3N3b3JkJTI2YyUzRGh0dHBzJTNBJTJGJTJGc3lzdGVtbS5jbyUyRmFwaSUyRnB1YmxpYy1zaGFyZSUyRnNlcnZlciUzRmElM0Rjc3YlMjZrZXklM0QyM1JlcjQ1Kio3MzQ1MzQ1JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=) 
+[Encrypted DIW (using a server)](?JTNGYSUzREVuY3J5cHRlZElkZW50aXR5V2FsbGV0JTI2YiUzRGh0dHBzJTNBJTJGJTJGc3lzdGVtbS5jbyUyRmFwaSUyRnB1YmxpYy1zaGFyZSUyRnNlcnZlciUzRmElM0RtZCUyNmtleSUzRHBhc3N3b3JkJTI2YyUzRGh0dHBzJTNBJTJGJTJGc3lzdGVtbS5jbyUyRmFwaSUyRnB1YmxpYy1zaGFyZSUyRnNlcnZlciUzRmElM0Rjc3YlMjZrZXklM0QyM1JlcjQ1Kio3MzQ1MzQ1JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=) 
 
 [Encrypted DIW in a Google Sheet](?JTNGYSUzREVuY3J5cHRlZEdvb2dsZVNoZWV0JTI2YiUzRGh0dHBzJTNBJTJGJTJGZG9jcy5nb29nbGUuY29tJTJGc3ByZWFkc2hlZXRzJTJGZCUyRmUlMkYyUEFDWC0xdlFCamtGdDFxVWhjQlhyOVd3Wl8zSEhRUGV2TTZjbWo4cVQ1Q3JKSU83N0Y3dGZQMmhQRHBCWEZTVC1pQjFwclctVUROc3hjb20wQ2RORiUyRnB1YiUzRmdpZCUzRDE3MTQwMzc5MDklMjZzaW5nbGUlM0R0cnVlJTI2b3V0cHV0JTNEdHN2JTI2YyUzRGh0dHBzJTNBJTJGJTJGc3lzdGVtbS5jbyUyRmFwaSUyRnB1YmxpYy1zaGFyZSUyRnNlcnZlciUzRmElM0Rjc3YlMjZrZXklM0QyM1JlcjQ1Kio3MzQ1MzQ1JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
@@ -41,6 +31,8 @@ Google Sheets:
 [Template Google Sheet](https://docs.google.com/spreadsheets/d/1LQZbyD8PA8JpXHKAur_cp7kS6MJ0FiqOwnsGFLDVVQE/edit?usp=sharing)
 Copy this example and create your own.
 
+## Encryption
+To encrypt some text, go to settings and paste in the text, enter a file name and select a password. And then save the file. This will have the encrypted string that can be imported in or add to the url of the extension e.g ?JTINDuVNoZWV0JTI2Y.....
 
 ]]
 {{m1}}
@@ -51,12 +43,6 @@ Copy this example and create your own.
 The app comes with the Help documentation and the files locations are within the app (HELP.MD and HELP.CSV).
 
 To view other examples:
-
-### Change log (locally stored)
-
-    Markdown File : CHANGELOG.MD
-
-    Menu File: CHANGELOG.CSV
 
 ### Read Me (stored on Github)
 
@@ -92,9 +78,4 @@ To view other examples:
 ### Store on a cloud
 
 Markdown File: https://res.cloudinary.com/vantacloud/raw/upload/q-vu/yzhmitsw3ejxhbae5tyx 
-]]
-{{m2}}[[
-## Try these
-
-
 ]]
