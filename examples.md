@@ -4,12 +4,18 @@
 
 There are a number of ways to view documents. 
 
+Certain data storage (e.g cloud or CDN) services can serve non CORS markdown files. We have found Google Sheets, GitHub, Cloudinary and Dropbox can be used (let us know of others!).
+
 Here are some clickable link examples showing various way to read files stored externally.
+
+After the link has been clicked the extension of website version will display in Settings the 2 files used. The service providers may change at any time (CORs or depreciating services) so if the link does not work, it may be because of this. For example the Dropbox example is unsupported (but works).
 
 ## Try These
 [View-Q Help Files (local)](?JTNGYSUzRGltcG9ydGVkaGVscCUyNmIlM0RoZWxwLm1kJTI2YyUzRGhlbHAuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
 [How to Camp Out, by John M. Gould (using GitHub)](?JTNGYSUzREhvdyUyMFRvJTIwQ2FtcCUyME91dCUyNmIlM0RodHRwcyUzQSUyRiUyRnJhdy5naXRodWJ1c2VyY29udGVudC5jb20lMkYxMzc0MlglMkZ2aWV3LXEtZXhhbXBsZXMlMkZtYWluJTJGaG93LXRvLWNhbXAtb3V0Lm1kJTI2YyUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZob3ctdG8tY2FtcC1vdXQuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+
+[How to Camp Out, by John M. Gould (using Dropbox)](?JTNGYSUzRERyb3Bib3hFeGFtcGxlJTI2YiUzRGh0dHBzJTNBJTJGJTJGZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbSUyRnMlMkZ4OXFhbmI3eXlvNHVxYmMlMkZob3ctdG8tY2FtcC5tZCUzRmRsJTNEMCUyNmMlM0RodHRwcyUzQSUyRiUyRmRsLmRyb3Bib3h1c2VyY29udGVudC5jb20lMkZzJTJGM2ZhbXVuaGNrcDVmczB0JTJGaG93LXRvLWNhbXAuY3N2JTNGZGwlM0QwJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
 [The NIV Bible (using GitHub)](?JTNGYSUzRFRoZSUyMEJpYmxlJTI2YiUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZuaXYubWQlMjZjJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRm5pdi5jc3YlMjZkJTNEZGVmYXVsdC1sb2dvLnN2Zw==)
 
