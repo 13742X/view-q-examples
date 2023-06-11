@@ -31,9 +31,6 @@ Google Sheets:
 [Template Google Sheet](https://docs.google.com/spreadsheets/d/1LQZbyD8PA8JpXHKAur_cp7kS6MJ0FiqOwnsGFLDVVQE/edit?usp=sharing)
 Copy this example and create your own.
 
-## Encryption
-To encrypt some text, go to settings and paste in the text, enter a file name and select a password. And then save the file. This will have the encrypted string that can be imported in or add to the url of the extension e.g ?JTINDuVNoZWV0JTI2Y.....
-
 ]]
 {{m1}}
 [[
