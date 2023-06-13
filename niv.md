@@ -63108,20 +63108,20 @@ The grace of the Lord Jesus be with God's people. Amen.
 
 Matthew
 
-!!![https://www.youtube.com/watch?v=go0P9q5ihHU][600,600]
+!!![https://www.youtube.com/embed/go0P9q5ihHU][600,600]
 
 Mark
 
 
-!!![https://www.youtube.com/watch?v=rh9yjReuWH0][600,600]
+!!![https://www.youtube.com/embed/h9yjReuWH0][600,600]
 
 Luke
 
 
-!!![https://www.youtube.com/watch?v=klzda4dYqio][600,600]
+!!![https://www.youtube.com/embed/klzda4dYqio][600,600]
 
 John
 
-!!![https://www.youtube.com/watch?v=9jE6KFiQouY][600,600]
+!!![https://www.youtube.com/embed/=9jE6KFiQouY][600,600]
 
 ]]
