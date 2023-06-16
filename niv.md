@@ -1,4 +1,11 @@
-﻿{{{welcome}}}[[ 
+﻿welcome,Welcome,orphan
+genesis,Genesis,orphan
+matthew,Matthew,orphan
+mark,Mark,orphan
+luke,Luke,orphan
+john,John,orphan
+videos,Videos,orphan
+{{{welcome}}}[[ 
 
 # Welcome 
 

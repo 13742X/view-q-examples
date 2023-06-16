@@ -1,3 +1,5 @@
+welcome,Welcome,orphan
+m1,Examples,orphan
 {{{welcome}}}
 [[
 ## Examples
