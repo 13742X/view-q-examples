@@ -30,5 +30,5 @@ You should make your declaration as soon as possible after the offer or receipt 
 
 Reference:
 
-https://en.wikipedia.org/wiki/Bribery_Act_2010
+[Bribery Act 2010](https://en.wikipedia.org/wiki/Bribery_Act_2010)
 ]]
