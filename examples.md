@@ -41,6 +41,9 @@ Google Sheets:
 [Template Google Sheet](https://docs.google.com/spreadsheets/d/1LQZbyD8PA8JpXHKAur_cp7kS6MJ0FiqOwnsGFLDVVQE/edit?usp=sharing)
 Copy this example and create your own.
 
+Business Examples:
+[Gifts and Benefits Policy](?JTNGYSUzREdpZnRzQW5kQmVuZWZpdHNQb2xpY3klMjZiJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRmdhYnMubWQlMjZjJTNEZW1iZWRkZWQlMjZkJTNEZGVmYXVsdC1sb2dvLnN2Zw==)
+
 ]]
 {{m1}}
 [[
