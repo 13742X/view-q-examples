@@ -17,7 +17,7 @@ After the link has been clicked the extension of website version will display in
 
 [How to Camp Out, by John M. Gould (using GitHub)](?JTNGYSUzREhvdyUyMFRvJTIwQ2FtcCUyME91dCUyNmIlM0RodHRwcyUzQSUyRiUyRnJhdy5naXRodWJ1c2VyY29udGVudC5jb20lMkYxMzc0MlglMkZ2aWV3LXEtZXhhbXBsZXMlMkZtYWluJTJGaG93LXRvLWNhbXAtb3V0Lm1kJTI2YyUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZob3ctdG8tY2FtcC1vdXQuY3N2JTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
-[How to Camp Out, by John M. Gould (using Dropbox)](?JTNGYSUzRERyb3Bib3glMjBFeGFtcGxlJTI2YiUzRGh0dHAlM0ElMkYlMkZkbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tJTJGcyUyRmVkdGh1djRlM2R1ZWd2MyUyRmhvdy10by1jYW1wLW91dC5tZCUyNmMlM0RlbWJlZGRlZCUyNmQlM0RkZWZhdWx0LWxvZ28uc3Zn)
+[How to Camp Out, by John M. Gould (using Dropbox)](?JTNGYSUzRERyb3Bib3hFeGFtcGxlJTI2YiUzRGh0dHBzJTNBJTJGJTJGZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbSUyRnMlMkZlZHRodXY0ZTNkdWVndjMlMkZob3ctdG8tY2FtcC1vdXQubWQlMjZjJTNEZW1iZWRkZWQlMjZkJTNEZGVmYXVsdC1sb2dvLnN2Zw==)
 
 (Source: https://www.dropboxforum.com/t5/Dropbox-API-Support-Feedback/CORS-Access-Control-Allow-Origin/td-p/336055)
 
