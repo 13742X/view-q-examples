@@ -1,5 +1,5 @@
-welcome,Welcome,orphan
-m1,Examples,orphan
+welcome,Example,orphan
+m1,Syntax,orphan
 {{{welcome}}}
 [[
 ## Examples
