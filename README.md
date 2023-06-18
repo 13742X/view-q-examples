@@ -1,10 +1,8 @@
 # view-q-examples
-Sample files for import or paste into view-q.
+Sample files for import or paste into q-viewer.
 
-View-q requires a pair of files - a menu.csv and a markdown.md.
+The app, served as a browser extension or on a website, requires a single markdown.md.
 
-For convenience the package name is used for each pair - example is test.md and text.csv.
-
-Use a service like jsdelivr.com or serve the Raw versions.
+The markdown.md (extension is not compulsory as long as the file is served as plain text) should contain the menu structure at the top of the file.
 
 

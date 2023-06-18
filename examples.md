@@ -50,7 +50,7 @@ Business Examples:
     
 ## Examples
 
-The app comes with the Help documentation and the files locations are within the app (HELP.MD and HELP.CSV).
+The app comes with the Help documentation and the file location is within the app (HELP.MD).
 
 To view other examples:
 
@@ -66,7 +66,6 @@ To view other examples:
 
      Markdown File : https://raw.githubusercontent.com/13742X/view-q-examples/main/niv.md 
 
-    Menu File: https://raw.githubusercontent.com/13742X/view-q-examples/main/niv.csv
 
 ### Import (no password)
 
