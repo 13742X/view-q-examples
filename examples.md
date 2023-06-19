@@ -6,7 +6,7 @@ m1,Syntax,orphan
 
 There are a number of ways to view documents. 
 
-Certain data storage (e.g cloud or CDN) services can serve non CORS markdown files. We have found Google Sheets, GitHub, Cloudinary and Dropbox can be used (let us know of others!).
+Certain data storage (e.g cloud or CDN) services can serve non CORS markdown files. We have found Google Workspace, GitHub, Cloudinary, Pandadoc, Box and Dropbox can be used (let us know of others!).
 
 Here are some clickable link examples showing various way to read files stored externally.
 
