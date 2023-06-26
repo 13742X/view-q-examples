@@ -30,10 +30,6 @@ After the link has been clicked the extension of website version will display in
 
 [Example of a short link using Google Sheets - https://q-viewer.com/u/M8aaorMC](https://q-viewer.com/u/M8aaorMC)
 
-
-[DIW (using a server)](?JTNGYSUzRFN5c3RlbU0lMjZiJTNEaHR0cHMlM0ElMkYlMkZzeXN0ZW1tLmNvJTJGYXBpJTJGcHVibGljLXNoYXJlJTJGc2VydmVyJTNGYSUzRG1kJTI2a2V5JTNEMjNSZXI0NSoqNzM0NTM0NSUyNmMlM0RodHRwcyUzQSUyRiUyRnN5c3RlbW0uY28lMkZhcGklMkZwdWJsaWMtc2hhcmUlMkZzZXJ2ZXIlM0ZhJTNEY3N2JTI2a2V5JTNEMjNSZXI0NSoqNzM0NTM0NSUyNmQlM0RkZWZhdWx0LWxvZ28uc3Zn)
-
-
 Password / Private Key is "password123". If successful an unlocked padlock will appear in settings by the file. Note the key=password:
 
 [Encrypted DIW (using GITHUB)](?JTNGYSUzRERpZ2l0YWxXYWxsZXRFbmNyeXB0ZWQlMjBHSVRIVUIlMjZiJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRmRpd2UubWQlMjZjJTNEZW1iZWRkZWQlMjZkJTNEZGVmYXVsdC1sb2dvLnN2Zw==) 
