@@ -1,16 +1,8 @@
 {{welcome}}
-## Examples (version 3))
+# Examples (version 3))
 
-There are a number of ways to store documents for viewing. 
-
-Certain data storage (e.g clouds or CDN) services can serve files. We have found Office 365, Google Workspace, GitHub, Cloudinary, Pandadoc, Box and Dropbox can be used (let us know of others!).
-
-Here are some clickable link examples showing various way to read files stored externally.
-
-After the link has been clicked the extension of website version will display in Settings the 2 files used. The service providers may change at any time (such as adding CORs restriction or depreciating services) so if the link does not work, it may be because of this. For example, our Dropbox example is unsupported (but works).
 
 ## Dropbox
-
 
 
 (Source: https://www.dropboxforum.com/t5/Dropbox-API-Support-Feedback/CORS-Access-Control-Allow-Origin/td-p/336055)
@@ -75,3 +67,12 @@ To view other examples:
 ### Store on a cloud
 
 Markdown File: https://res.cloudinary.com/vantacloud/raw/upload/q-vu/yzhmitsw3ejxhbae5tyx 
+
+{{Datastores}}
+There are a number of ways to store documents for viewing. 
+
+Certain data storage (e.g clouds or CDN) services can serve files. We have found Office 365, Google Workspace, GitHub, Cloudinary, Pandadoc, Box and Dropbox can be used (let us know of others!).
+
+Here are some clickable link examples showing various way to read files stored externally.
+
+After the link has been clicked the extension of website version will display in Settings the 2 files used. The service providers may change at any time (such as adding CORs restriction or depreciating services) so if the link does not work, it may be because of this. For example, our Dropbox example is unsupported (but works).
