@@ -1,26 +1,30 @@
-{{{welcome}}}
-## Examples (version 0.0.3.0)
+{{welcome}}
+## Examples (version 3))
 
-There are a number of ways to view documents. 
+There are a number of ways to store documents for viewing. 
 
-Certain data storage (e.g cloud or CDN) services can serve non CORS markdown files. We have found Google Workspace, GitHub, Cloudinary, Pandadoc, Box and Dropbox can be used (let us know of others!).
+Certain data storage (e.g clouds or CDN) services can serve files. We have found Office 365, Google Workspace, GitHub, Cloudinary, Pandadoc, Box and Dropbox can be used (let us know of others!).
 
 Here are some clickable link examples showing various way to read files stored externally.
 
-After the link has been clicked the extension of website version will display in Settings the 2 files used. The service providers may change at any time (CORs or depreciating services) so if the link does not work, it may be because of this. For example the Dropbox example is unsupported (but works).
+After the link has been clicked the extension of website version will display in Settings the 2 files used. The service providers may change at any time (such as adding CORs restriction or depreciating services) so if the link does not work, it may be because of this. For example, our Dropbox example is unsupported (but works).
 
-## Try These
+## Dropbox
+
+
 
 (Source: https://www.dropboxforum.com/t5/Dropbox-API-Support-Feedback/CORS-Access-Control-Allow-Origin/td-p/336055)
 
 
+## Github
 
+[The Bible](JTNGYSUzREJpYmxlJTIwTmV3JTI2YiUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZuaXYtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
 [Example of a short link using Google Sheets - https://q-viewer.com/u/JSmbaGZl](https://q-viewer.com/u/JSmbaGZl)
 
 Password / Private Key is "password123". If successful an unlocked padlock will appear in settings by the file. Note the key=password:
 
-[
+
 Google Sheets:
 
 [Template Google Sheet](https://docs.google.com/spreadsheets/d/1LQZbyD8PA8JpXHKAur_cp7kS6MJ0FiqOwnsGFLDVVQE/edit?usp=sharing)
