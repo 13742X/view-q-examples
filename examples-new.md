@@ -1,5 +1,5 @@
-{{welcome}}
-# Examples (version 3))
+{{Welcome}}
+# Examples (version 3)
 These examples uses various third party data stores and content and is for educational purposes only.
 
 ## Dropbox (c)
@@ -9,11 +9,11 @@ These examples uses various third party data stores and content and is for educa
 
 ## Github (c)
 
-[The Bible](JTNGYSUzREJpYmxlJTIwTmV3JTI2YiUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZuaXYtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+[The Bible](?JTNGYSUzREJpYmxlJTIwTmV3JTI2YiUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZuaXYtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
-[Gifts and Benefits Policy (UK)](JTNGYSUzREdhYnMlMjBOZXclMjZiJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRmdhYnMtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+[Gifts and Benefits Policy (UK)](?JTNGYSUzREdhYnMlMjBOZXclMjZiJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRmdhYnMtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
-# Google Sheets (c)
+## Google Sheets (c)
 
 [Example of a short link using Google Sheets - https://q-viewer.com/u/JSmbaGZl](https://q-viewer.com/u/JSmbaGZl)
 
