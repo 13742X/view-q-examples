@@ -2,6 +2,7 @@
 {{Welcome}}
 
 # Gifts & Benefits Policy
+
 1. Purpose
 This policy, based on the 2010 Anti Bribery & Corruption Act 2010 (UK) sets out the procedure staff must follow when giving or receiving gifts, benefits and hospitality ("GaBs").
 

@@ -1,5 +1,5 @@
 ﻿
-{{{Welcome}}}
+{{Welcome}}
 
 # Welcome 
 
