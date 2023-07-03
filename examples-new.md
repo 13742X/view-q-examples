@@ -2,14 +2,18 @@
 # Examples (version 3))
 These examples uses various third party data stores and content and is for educational purposes only.
 
-## Dropbox
+## Dropbox (c)
 
 (Source: https://www.dropboxforum.com/t5/Dropbox-API-Support-Feedback/CORS-Access-Control-Allow-Origin/td-p/336055)
 
 
-## Github
+## Github (c)
 
 [The Bible](JTNGYSUzREJpYmxlJTIwTmV3JTI2YiUzRGh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRjEzNzQyWCUyRnZpZXctcS1leGFtcGxlcyUyRm1haW4lMkZuaXYtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+
+[Gifts and Benefits Policy (UK)](JTNGYSUzREdhYnMlMjBOZXclMjZiJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRmdhYnMtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+
+# Google Sheets (c)
 
 [Example of a short link using Google Sheets - https://q-viewer.com/u/JSmbaGZl](https://q-viewer.com/u/JSmbaGZl)
 
