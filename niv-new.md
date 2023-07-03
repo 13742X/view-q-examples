@@ -1,5 +1,5 @@
 ﻿
-{{{welcome}}}
+{{{Welcome}}}
 
 # Welcome 
 
@@ -7,7 +7,7 @@
 Welcome to the new testament! And some old books too! 
 
 
-{{genesis}} 
+{{Genesis}} 
 
 # Genesis 
 
@@ -3082,6 +3082,8 @@ So Joseph died at the age of a hundred and ten. And after they embalmed him, he 
  
 
 {{Exodus}} 
+
+# Exodus
 
 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:
 
@@ -46959,7 +46961,7 @@ He will turn the hearts of the fathers to their children, and the hearts of the 
 
  
 
-{{matthew}} 
+{{Matthew}} 
 
 # Matthew 
 
@@ -49103,7 +49105,7 @@ and teaching them to obey everything I have commanded you. And surely I am with 
 
  
 
-{{mark}} 
+{{Mark}} 
 
 # Mark 
 
@@ -50459,7 +50461,7 @@ Then the disciples went out and preached everywhere, and the Lord worked with th
 
  
 
-{{luke}} 
+{{Luke}} 
 
 # Luke 
 
@@ -52765,7 +52767,7 @@ And they stayed continually at the temple, praising God.
 
  
 
-{{john}} 
+{{John}} 
 
  
 
@@ -54533,9 +54535,9 @@ Jesus did many other things as well. If every one of them were written down, I s
 
  
 
-{{acts}}  
+{{Acts}}  
 
-Acts 
+# Acts 
 
 In my former book, Theophilus, I wrote about all that Jesus began to do and to teach
 
@@ -63104,7 +63106,9 @@ He who testifies to these things says, "Yes, I am coming soon." Amen. Come, Lord
 The grace of the Lord Jesus be with God's people. Amen. 
 
 
-{{videos}}
+{{Videos}}
+
+# Videos
 
 Matthew
 !!![https://www.youtube.com/embed/YaS1gwKeVZE][600,600]

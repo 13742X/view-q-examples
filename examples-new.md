@@ -1,9 +1,8 @@
 {{welcome}}
 # Examples (version 3))
-
+These examples uses various third party data stores and content and is for educational purposes only.
 
 ## Dropbox
-
 
 (Source: https://www.dropboxforum.com/t5/Dropbox-API-Support-Feedback/CORS-Access-Control-Allow-Origin/td-p/336055)
 
@@ -23,9 +22,6 @@ Google Sheets:
 Copy this example and create your own.
 
 Business Examples:
-
-
-{{Example}}
 
     
 ## Examples
