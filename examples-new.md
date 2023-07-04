@@ -26,7 +26,7 @@ Copy this example and create your own.
 
 [GDPR UK - as a short link https://q-viewer.com/u/Zf8zIZkj](https://q-viewer.com/u/Zf8zIZkj)
 
-[GDPR UK - needs a password](JTNGYSUzREJveSUyME1lZXRzJTIwR2lybCUyMFBhc3N3b3JkJTI2YiUzRGh0dHBzJTNBJTJGJTJGZG9jcy5nb29nbGUuY29tJTJGc3ByZWFkc2hlZXRzJTJGZCUyRmUlMkYyUEFDWC0xdlRyQm5iNzJ2VlItazdMR2dacXFHVnRnVUIxRk5WZ0tCc0tac3VVZkF0aDNQZnBxQmI0a3RSeUdMbW9PbXdNZVlMaGRLQmNkN0pZYTBOcyUyRnB1YiUzRmdpZCUzRDE3MTQwMzc5MDklMjZzaW5nbGUlM0R0cnVlJTI2b3V0cHV0JTNEdHN2JTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
+[GDPR UK - needs a password](?JTNGYSUzREJveSUyME1lZXRzJTIwR2lybCUyMFBhc3N3b3JkJTI2YiUzRGh0dHBzJTNBJTJGJTJGZG9jcy5nb29nbGUuY29tJTJGc3ByZWFkc2hlZXRzJTJGZCUyRmUlMkYyUEFDWC0xdlRyQm5iNzJ2VlItazdMR2dacXFHVnRnVUIxRk5WZ0tCc0tac3VVZkF0aDNQZnBxQmI0a3RSeUdMbW9PbXdNZVlMaGRLQmNkN0pZYTBOcyUyRnB1YiUzRmdpZCUzRDE3MTQwMzc5MDklMjZzaW5nbGUlM0R0cnVlJTI2b3V0cHV0JTNEdHN2JTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
 Password / Private Key is "password123". If successful an unlocked padlock will appear in settings by the file. Note the key=password:
 
