@@ -13,6 +13,8 @@ These examples uses various third party data stores and content and is for educa
 
 [Gifts and Benefits Policy (UK)](?JTNGYSUzREdhYnMlMjBOZXclMjZiJTNEaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGMTM3NDJYJTJGdmlldy1xLWV4YW1wbGVzJTJGbWFpbiUyRmdhYnMtbmV3Lm1kJTI2YyUzRGVtYmVkZGVkJTI2ZCUzRGRlZmF1bHQtbG9nby5zdmc=)
 
+[How To Camp Out](?JTNGYSUzREhvdyUyMFRvJTIwQ2FtcCUyME91dCUyNmIlM0RodHRwcyUzQSUyRiUyRnJhdy5naXRodWJ1c2VyY29udGVudC5jb20lMkYxMzc0MlglMkZ2aWV3LXEtZXhhbXBsZXMlMkZtYWluJTJGaG93LXRvLWNhbXAtb3V0LW5ldy5tZCUyNmMlM0RlbWJlZGRlZCUyNmQlM0RkZWZhdWx0LWxvZ28uc3Zn)
+
 ## Google Sheets (c)
 
 [Example of a short link using Google Sheets - https://q-viewer.com/u/JSmbaGZl](https://q-viewer.com/u/JSmbaGZl)
