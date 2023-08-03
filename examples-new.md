@@ -21,7 +21,7 @@ These examples uses various third party data stores and content and is for educa
 
 ## Google Sheets (c)
 
-[Biden & Trump 2024 Hustings](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7W6KRZMFn6j9JnfvkeGsbEJEBNfULPon-BD8n_H-R2BxEB4ZghmudWz0Qz-_a3RTg4TbjZtvMV4xO/pub?gid=1714037909&single=true&output=tsv)
+[Biden & Trump 2024 Hustings](https://app.q-viewer.com/?JTNGYSUzREJpZGVuJTIwVHJ1bXAlMjAyMDI0JTIwVHdpdGNoJTI2YiUzRGFIUjBjSE02THk5a2IyTnpMbWR2YjJkc1pTNWpiMjB2YzNCeVpXRmtjMmhsWlhSekwyUXZaUzh5VUVGRFdDMHhkbE0zVnpaTFVscE5SbTQyYWpsS2JtWjJhMlZIYzJKRlNrVkNUbVpWVEZCdmJpMUNSRGh1WDBndFVqSkNlRVZDTkZwbmFHMTFaRmQ2TUZGNkxWOWhNMUpVWnpSVVltcGFkSFpOVmpSNFR5OXdkV0klMkZaMmxrUFRFM01UUXdNemM1TURrbWMybHVaMnhsUFhSeWRXVW1iM1YwY0hWMFBYUnpkZyUzRCUzRCUyNmMlM0RlbWJlZGRlZCUyNmQlM0RkZWZhdWx0LWxvZ28uc3Zn)
 
 
 [Template Google Sheet](https://docs.google.com/spreadsheets/d/1bFwSLwqtzdJSY5Svg2DKw83Q4iBxtwwWAUeibornreU/edit?usp=sharing)
