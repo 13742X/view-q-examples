@@ -38,6 +38,9 @@ Password / Private Key is "password123". If successful an unlocked padlock will 
 
 Google Sheets:
 
+[Biden & Trump 2024 Hustings](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7W6KRZMFn6j9JnfvkeGsbEJEBNfULPon-BD8n_H-R2BxEB4ZghmudWz0Qz-_a3RTg4TbjZtvMV4xO/pub?gid=1714037909&single=true&output=tsv)
+
+
 [Template Google Sheet](https://docs.google.com/spreadsheets/d/1LQZbyD8PA8JpXHKAur_cp7kS6MJ0FiqOwnsGFLDVVQE/edit?usp=sharing)
 Copy this example and create your own.
 
